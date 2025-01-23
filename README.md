@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Swtcphi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In this step I will login to the osTicket Admin Panel. Above displays the tickets for admin/helpdesk User Interface (UI) that will reflect the tickets that are created by the End User.
