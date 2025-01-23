@@ -39,10 +39,15 @@ In this step I will login to the osTicket Admin Panel. Above displays the ticket
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JTO5iKl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Since tickets are routed through Departments in the help desk, there are many settings that can be set for each Department. The above image will show the many different settings.In this step you can also configure Teams and Roles.
+
+Admin Panel -> Agents -> Departments
+System Administrators
+Leave the remaining fields set as default and simply review what selections are available to choose from
+
 </p>
 <br />
 
